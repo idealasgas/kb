@@ -10,7 +10,7 @@ concept_strawberry<- rrel_key_sc_element: ...
 <=nrel_sc_text_translation:
 ...
 (*
-->rrel_example: "file://images/strawberry.jpg"
+->rrel_example: "file://pictures/strawberry.jpg"
 (*
 => nrel_format: format_jpg;;
 *);;
